@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is new user Register for DevOps Learning designed by vinod 3rd bild</h1>
+    <h1>This is devops learing and integrating ansible to jenkins</h1>
     <p>Please fill in this form to create an account to get approval from vinod 3rd build.</p>
     <hr>
      
